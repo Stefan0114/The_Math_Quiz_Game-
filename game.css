@@ -1,6 +1,6 @@
 body
 {
-	background-image: linear-gradient(red, yellow);
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
 
 }
 
@@ -34,4 +34,9 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+#grad 
+{ 
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
 }
